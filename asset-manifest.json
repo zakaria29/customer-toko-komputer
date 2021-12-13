@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/customer-toko-komputer/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/customer-toko-komputer/static/js/main.d4abff6b.chunk.js",
-    "main.js.map": "/customer-toko-komputer/static/js/main.d4abff6b.chunk.js.map",
+    "main.js": "/customer-toko-komputer/static/js/main.7a51708f.chunk.js",
+    "main.js.map": "/customer-toko-komputer/static/js/main.7a51708f.chunk.js.map",
     "runtime-main.js": "/customer-toko-komputer/static/js/runtime-main.14d6b778.js",
     "runtime-main.js.map": "/customer-toko-komputer/static/js/runtime-main.14d6b778.js.map",
     "static/css/2.150d169a.chunk.css": "/customer-toko-komputer/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.b6b1d360.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.d4abff6b.chunk.js"
+    "static/js/main.7a51708f.chunk.js"
   ]
 }
