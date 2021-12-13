@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/customer-toko-komputer/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/customer-toko-komputer/static/js/main.d4abff6b.chunk.js",
+    "main.js.map": "/customer-toko-komputer/static/js/main.d4abff6b.chunk.js.map",
+    "runtime-main.js": "/customer-toko-komputer/static/js/runtime-main.14d6b778.js",
+    "runtime-main.js.map": "/customer-toko-komputer/static/js/runtime-main.14d6b778.js.map",
+    "static/css/2.150d169a.chunk.css": "/customer-toko-komputer/static/css/2.150d169a.chunk.css",
+    "static/js/2.b6b1d360.chunk.js": "/customer-toko-komputer/static/js/2.b6b1d360.chunk.js",
+    "static/js/2.b6b1d360.chunk.js.map": "/customer-toko-komputer/static/js/2.b6b1d360.chunk.js.map",
+    "static/js/3.25c50b0b.chunk.js": "/customer-toko-komputer/static/js/3.25c50b0b.chunk.js",
+    "static/js/3.25c50b0b.chunk.js.map": "/customer-toko-komputer/static/js/3.25c50b0b.chunk.js.map",
+    "index.html": "/customer-toko-komputer/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/customer-toko-komputer/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/customer-toko-komputer/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b6b1d360.chunk.js.LICENSE.txt": "/customer-toko-komputer/static/js/2.b6b1d360.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14d6b778.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.b6b1d360.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d4abff6b.chunk.js"
+  ]
+}
